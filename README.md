@@ -1,4 +1,4 @@
-🧠 Machine Learning–Based Clinical Diabetes Prediction System
+🧠 Risk Stratification for Diabetes Mellitus Using Machine Learning on Clinical Data
 
 A Full-Stack Machine Learning Application for Clinical Risk Assessment
 
